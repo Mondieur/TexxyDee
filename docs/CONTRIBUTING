@@ -1,1 +1,21 @@
-Contribute for free and do not get payed!
+# Contributing Guidelines
+Thank you for your interest in contributing to our project! Please take a moment to review these guidelines before submitting your contribution.
+
+### Issues
+If you encounter a bug or have a feature request, please submit an issue on our GitHub repository. Please provide as much detail as possible, including the steps to reproduce the issue or a detailed description of the feature request.
+
+### Pull Requests
+We welcome contributions from the community! If you would like to submit a pull request, please follow these guidelines:
+
+1. Fork the repository and create a new branch for your changes.
+
+2. Make your changes and ensure that they are properly tested.
+
+3. Submit a pull request to the main branch of the repository. Be sure to provide a detailed description of your changes and why they are necessary.
+
+4. Wait for feedback from the maintainers. We may ask you to make changes before merging your contribution.
+
+### Code of Conduct
+Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. Please review the Code of Conduct before contributing.
+
+Thank you again for your interest in contributing to our project!
