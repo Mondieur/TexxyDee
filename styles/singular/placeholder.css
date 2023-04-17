@@ -1,0 +1,16 @@
+/* TODO: placeholder */
+.placeholder, .textarea::before {
+  color: #000;
+}
+.textarea:focus::before {
+  display: none;
+} 
+.textarea:focus::before {
+  display: none;
+} 
+.textarea::content {
+  display: contents;
+}
+.textarea::before {
+  content: attr(data-placeholder);
+}

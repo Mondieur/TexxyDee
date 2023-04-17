@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  
+  <title>Texxy Dee</title>
+  
+  <!-- STYLES -->
+  <link rel="stylesheet" href="./styles.css" />
+
+  <!-- SCRIPTS -->
+  <script defer type="module" src="./app.js"></script>
+  <script defer type="module" src="./parser/Collect.js"></script>
+  <script defer type="module" src="./shared/Static.js"></script>
+  
+  <!-- FONTS -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Ubuntu&display=swap" rel="stylesheet">
+
+</head>
+
+<body translate="yes">
+
+  <div class="editor">
+
+    <div class="toolset">
+      <button class="button" onclick="">h1</button>
+      <button class="button" onclick="">h2</button>
+      <button class="button" onclick="">h3</button>
+      <button class="button" onclick="">h4</button>
+      <button class="button" onclick="">h5</button>
+      <button class="button" onclick="">h6</button>
+      <button class="button" onclick="">OL</button>
+      <button class="button" onclick="">UL</button>
+      <button class="button" onclick="">Blockquote</button>
+      <button class="button" onclick="">Code block</button>
+      <button class="button" onclick="">Bold</button>
+      <button class="button" onclick="">Italic</button>
+      <button class="button" onclick="">Underline</button>
+      <button class="button" onclick="">Monospace</button>
+    </div>
+  
+    <!-- Required for the defered runtime -->
+    <div id="app" class="textarea" contenteditable="true" data-placeholder=""></div>
+  </div>
+</html>

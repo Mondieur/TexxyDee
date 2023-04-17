@@ -1,0 +1,7 @@
+
+@import './styles/general/reset.css'; /* DONE: erase any pre-CSS */
+@import './styles/general/layout.css'; /* TODO: styles just headings */
+@import './styles/singular/markup.css'; /* TODO: styles just pseudo placeholder */
+@import './styles/singular/headings.css'; /* TODO: styles just headings */
+@import './styles/singular/scrollbar.css'; /* TODO: styles just scrollbar */
+@import './styles/singular/placeholder.css'; /* TODO: styles just pseudo placeholder */

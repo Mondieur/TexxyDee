@@ -1,0 +1,19 @@
+/*   TODO: scrollbar */
+/* ! DONE: default scrollbar is enough */
+/* 
+::-webkit-scrollbar {
+  width: 10px; 
+}
+::-webkit-scrollbar-track {
+  background: #8b8b8b;
+}
+.textarea:focus::-webkit-scrollbar-track {
+  background: #8b8b8b; 
+}
+::-webkit-scrollbar-thumb {
+  background: #9e4187; 
+}
+::-webkit-scrollbar-thumb:hover {
+  cursor: pointer; 
+  background: #c250a5;
+} */
